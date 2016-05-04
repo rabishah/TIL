@@ -6,3 +6,4 @@
 
 - [API Gateway](aws/api-gateway.md)
 - [SSL from letsencrypt](aws/aws-ssl-letsencrypt.md)
+- [Benchmark your deployed revisions](aws/codedeploy_benchmark.md)
