@@ -1,4 +1,4 @@
-# benchmark your deployed revision (AWS Codedeploy)
+### benchmark your deployed revision (AWS Codedeploy)
 
 ```
 #!/bin/bash
@@ -16,6 +16,7 @@ echo $RESULT min
 
 ### usage 
 > ./script.sh deployment-id
+> output: 4 min 
 
 ### dependencies 
 [jq](https://stedolan.github.io/jq/)
