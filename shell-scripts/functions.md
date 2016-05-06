@@ -18,7 +18,7 @@ $ hw
 . ~/path/to/script
 ```
 
-####functions that execute in a separate process
+####function that execute in a separate process
 ```
 hw() ( echo 'Hello World!!' )
 ```
