@@ -1,4 +1,4 @@
-### writing modular bash scripts
+### writing modular shell scripts
 
 _Named function_: the possibility to associate a name with a command list and execute the command list by using the name as a command
 
