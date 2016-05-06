@@ -1,6 +1,6 @@
 # TIL
 
-> Today I Learned : Hipster Snippets Collections
+> Today I Learned : Hipster Snippet Collections
 
 ### AWS
 
