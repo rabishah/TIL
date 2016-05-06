@@ -11,3 +11,7 @@
 ### JS
 
 - [Immediatey-Invoked Function Expression](js/patterns.md#iffe-pronounced-iffy)
+
+### Shell Scripts
+
+- [writing modular shell scripts](shell-scripts/functions.md#writing-modular-bash-scripts)
