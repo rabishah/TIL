@@ -27,3 +27,5 @@ for the same reason.
 - [CSS](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
 - [HTML](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
 - [GIT](https://udacity.github.io/git-styleguide/)
+
+- [Website Performance](https://github.com/rabishah/TIL/blob/master/Web-Performance.md#web-performance)
