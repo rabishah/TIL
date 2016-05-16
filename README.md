@@ -11,6 +11,7 @@
 ### JS
 
 - [Immediatey-Invoked Function Expression](js/patterns.md#iffe-pronounced-iffy)
+- [Transpiler](https://github.com/rabishah/TIL/blob/master/js/transpiler.md#transplier)
 
 ### Shell Scripts
 
