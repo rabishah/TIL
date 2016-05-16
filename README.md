@@ -15,6 +15,7 @@
 ### Shell Scripts
 
 - [writing modular shell scripts](shell-scripts/functions.md#writing-modular-bash-scripts)
+- [.bash_profile vs .bashrc](https://github.com/thoughtbot/til/blob/master/bash/bash_profile_vs_bashrc.md#bash_profile-vs-bashrc)
 
 ### Style guides
 
