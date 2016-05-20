@@ -6,7 +6,7 @@ about the performance. *Here, stability is something, I refer to minimum bugs an
 a proper(if not good) UX flow in product development phase*. 
 
 > Steve Souders, author of “High Performance Websites” and “Even Faster Websites”, 
-> says *that 80-90% of end user response time is spent on the frontend*. 
+> says *that 80-90% of end user time is spent on the frontend*. 
 
 What’s a good response time to aim for? Since __user conversion__ or __bounce rate__ 
 is highly co-related with response / pageload time. And before we dig more, we 
