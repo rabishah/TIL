@@ -5,9 +5,9 @@
 ### AWS
 
 - [API Gateway](aws/api-gateway.md)
+- [API Gateway - enable CORS](http://enable-cors.org/server_awsapigateway.html)
 - [SSL from letsencrypt](aws/aws-ssl-letsencrypt.md)
 - [Benchmark your deployed revisions](aws/codedeploy_benchmark.md)
-- [API Gateway - enable cors](http://enable-cors.org/server_awsapigateway.html)
 
 ### JS
 
