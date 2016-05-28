@@ -32,3 +32,10 @@ for the same reason.
 
 ### Frontend Engineering
 - [Website Performance](https://github.com/rabishah/TIL/blob/master/Web-Performance.md#web-performance)
+
+##### Browser usage statistics
+- [gs.statcounter.com](http://gs.statcounter.com/)
+- [can-i-use](http://caniuse.com/usage-table)
+- [w3counter](https://www.w3counter.com/globalstats.php)
+- [netmarketshare.com](https://www.netmarketshare.com/browser-market-share.aspx?qprid=2&qpcustomd=0)
+
