@@ -39,3 +39,5 @@ for the same reason.
 - [w3counter](https://www.w3counter.com/globalstats.php)
 - [netmarketshare.com](https://www.netmarketshare.com/browser-market-share.aspx?qprid=2&qpcustomd=0)
 
+##### Web statistics
+- [httparchive.org](http://httparchive.org/interesting.php)
