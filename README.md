@@ -31,6 +31,8 @@ for the same reason.
 - [HTML](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
 - [GIT](https://udacity.github.io/git-styleguide/)
 
+Also, [standardjs](https://github.com/feross/standard)
+
 ### Frontend Engineering
 - [Website Performance](https://github.com/rabishah/TIL/blob/master/Web-Performance.md#web-performance)
 
