@@ -8,6 +8,7 @@
 - [API Gateway - enable CORS](http://enable-cors.org/server_awsapigateway.html)
 - [SSL from letsencrypt](aws/aws-ssl-letsencrypt.md)
 - [Benchmark your deployed revisions](aws/codedeploy_benchmark.md)
+- [Monitor your instance with New Relic](aws/newrelic_server.sh)
 
 ### JS
 
