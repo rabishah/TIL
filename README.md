@@ -9,6 +9,7 @@
 - [SSL from letsencrypt](aws/aws-ssl-letsencrypt.md)
 - [Benchmark your deployed revisions](aws/codedeploy_benchmark.md)
 - [Monitor your instance with New Relic](aws/newrelic_server.sh)
+- [Mount s3 on instance using s3fs](aws/s3fs.sh)
 
 ### JS
 
