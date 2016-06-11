@@ -16,6 +16,7 @@
 - [Immediatey-Invoked Function Expression](js/patterns.md#iffe-pronounced-iffy)
 - [Transpiler](https://github.com/rabishah/TIL/blob/master/js/transpiler.md#transplier)
 - [Pyramid Of Doom](https://github.com/rabishah/TIL/blob/master/js/pyramid_of_doom.md)
+- [Modules in Javascript](https://github.com/rabishah/TIL/blob/master/js/modules_in_javascript.md)
 
 ### Shell Scripts
 
