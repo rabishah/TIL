@@ -1,4 +1,4 @@
-# Today I Learned
+# today i learned
 
 > : Hipster Snippet Collections
 
@@ -22,6 +22,10 @@
 
 - [writing modular shell scripts](shell-scripts/functions.md#writing-modular-bash-scripts)
 - [.bash_profile vs .bashrc](https://github.com/thoughtbot/til/blob/master/bash/bash_profile_vs_bashrc.md#bash_profile-vs-bashrc)
+
+### tmux
+
+- [my tmux cheatsheets](tmux/my_tmux_cheatsheets.md)
 
 ### Style guides
 
