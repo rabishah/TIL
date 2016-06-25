@@ -4,9 +4,9 @@
 
 ### AWS
 
-- [API Gateway](aws/api-gateway.md)
+- [API Gateway](aws/api_gateway.md)
 - [API Gateway - enable CORS](http://enable-cors.org/server_awsapigateway.html)
-- [SSL from letsencrypt](aws/aws-ssl-letsencrypt.md)
+- [SSL from letsencrypt](aws/aws_ssl_letsencrypt.md)
 - [Benchmark your deployed revisions](aws/codedeploy_benchmark.md)
 - [Monitor your instance with New Relic](aws/newrelic_server.sh)
 - [Mount s3 on instance using s3fs](aws/s3fs.sh)
